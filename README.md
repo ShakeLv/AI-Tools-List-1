@@ -60,6 +60,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Motion | [usemotion.com](https://usemotion.com) | AI calendar and task automation tool. |
 | Notion AI | [notion.so/product/ai](https://notion.so/product/ai) | AI‑enhanced workspace for notes, docs, and task automation. |
 | Otter.ai | [otter.ai](https://otter.ai) | AI transcription tool for meetings and lectures. |
+| Remio | [remio.ai](https://remio.ai/) | Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for focused personal-context retrieval. |
 | Reclaim.ai | [reclaim.ai](https://reclaim.ai) | Smart calendar assistant for time blocking and task planning. |
 | RescueTime | [rescuetime.com](https://rescuetime.com) | AI‑powered time tracking and productivity insights. |
 | Superhuman | [superhuman.com](https://superhuman.com) | AI‑powered email client for faster communication. |
@@ -150,4 +151,3 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | LLAMACPP | [https://github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ |
 | LLAMASharp | [https://github.com/SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp is a cross-platform library to run 🦙LLaMA/LLaVA |
 | Z.ai | [z.ai/](https://z.ai/blog/glm-5/) | AI‑powered search and knowledge graph platform. |
-
