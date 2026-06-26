@@ -7,7 +7,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Name | URL | Description |
 | --------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | ChatGPT | [openai.com/chatgpt](https://openai.com/chatgpt) | Conversational AI for natural language understanding and generation. |
-[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — |
 | Claude | [claude.ai](https://claude.ai) | AI assistant by Anthropic focused on helpful and harmless responses. |
 | Copilot (me!) | [copilot.microsoft.com](https://copilot.microsoft.com) | Microsoft’s AI companion for productivity, creativity, and conversation. |
 | DeepSeek | [deepseek.com](https://deepseek.com) | AI assistant with strong coding and reasoning capabilities. |
