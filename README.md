@@ -168,6 +168,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 
 | Name | URL | Description |
 | ---------- | ---------------------------------------------- | ------------------------------------------------------- |
+| Caveman | [https://github.com/JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | why use many tokens when few token do trick — Claude Code skill to reduce token usage |
 | GAIA (AMD) | [https://github.com/amd/gaia](https://github.com/amd/gaia) | AMD’s open‑source framework for machine learning. |
 | Groq | [groq.com](https://groq.com) | Ultra-fast inference for open-source LLMs (Mixtral, Llama, etc.) with a developer-friendly API. |
 | Lemonade Server | [lemonade-server.ai](https://lemonade-server.ai) | AI platform for building and deploying machine learning models. |
