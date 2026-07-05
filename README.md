@@ -2,7 +2,7 @@
 
 List of AI tools for various tasks. This list is (obviously) not comprehensive.
 
-## 🤖 General AI Assistants
+## 🤖 General AI
 
 | Name | URL | Description |
 | --------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
@@ -18,6 +18,7 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Poe.com | [https://poe.com/](https://poe.com/) | Offers free daily credits for premium models like Claude 4 or o4‑mini. |
 | Replika | [replika.com](https://replika.com) | AI companion for emotional support and conversation. |
 | YouChat | [you.com](https://you.com) | AI chatbot integrated into the You.com search engine. |
+| Z.ai | [z.ai/](https://z.ai/blog/glm-5/) | AI‑powered search and knowledge graph platform. |
 
 ## 🧰 Development Tools
 
@@ -33,8 +34,10 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Hugging Face | [huggingface.co](https://huggingface.co) | Open‑source AI models and datasets for developers. |
 | Intel Geti | [geti.intel.com](https://geti.intel.com) | AI platform for training computer vision models. |
 | Lobe | [lobe.ai](https://lobe.ai) | Visual tool for building machine learning models without code. |
+| LLM Studio | [llmstudio.com](https://llmstudio.com) | Platform for training and deploying large language models. |
 | OpenAI Codex | [Open AI Codex](https://openai.com/codex/) | From routine pull requests to your hardest problems, Codex reliably completes tasks end to end, like building features, complex refactors, migrations, and more, powered by OpenAI’s frontier coding models. |
 | OpenCV AI Kit | [opencv.ai](https://opencv.ai) | Hardware and software platform for computer vision applications. |
+| OpenCode | [opencode.ai](https://opencode.ai) | The open source AI coding agent |
 | Qwen3 Coder | [https://qwen.qingyunai.com/](https://qwen.qingyunai.com/) | New coder‑focused model on web by Qwen. |
 | Replit Ghostwriter | [replit.com](https://replit.com) | AI coding assistant built into Replit IDE. |
 | Roboflow | [roboflow.com](https://roboflow.com) | Computer vision platform for labeling and training models. |
@@ -137,17 +140,28 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Resemble.ai | [resemble.ai](https://resemble.ai) | Voice cloning and synthesis for custom AI voices. |
 | Voicemod | [voicemod.net](https://voicemod.net) | Real‑time voice changer and soundboard powered by AI. |
 
-## Other AI Tools
+## 🛠️ Other AI Tools And Backends
 
 | Name | URL | Description |
 | ---------- | ---------------------------------------------- | ------------------------------------------------------- |
 | OpenRouter | [https://openrouter.ai](https://openrouter.ai) | Aggregator for multiple AI models, free and paid tiers. |
+| Lemonade Server | [lemonade-server.ai](https://lemonade-server.ai) | AI platform for building and deploying machine learning models. |
 | LmStudio.ai | [https://lmstudio.ai/](https://lmstudio.ai/) | Local environment for running and developing language models. |
-| Kaggle | [https://www.kaggle.com/](https://www.kaggle.com/) | Data science competition & ML dataset platform. |
 | GAIA (AMD) | [https://github.com/amd/gaia](https://github.com/amd/gaia) | AMD’s open‑source framework for machine learning. |
 | OLLAMA | [https://ollama.com/search?q=code](https://ollama.com/search?q=code) | AI Tool |
 | LLAMA | [https://www.llama.com/](https://www.llama.com/) | Meta's AI Tooling |
 | LLAMACPP | [https://github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ |
 | LLAMASharp | [https://github.com/SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp is a cross-platform library to run 🦙LLaMA/LLaVA |
-| Z.ai | [z.ai/](https://z.ai/blog/glm-5/) | AI‑powered search and knowledge graph platform. |
 
+## 🔬 AI Research &amp; Model Creators
+
+| Name | URL | Description |
+| ---------- | ---------------------------------------------- | ------------------------------------------------------- |
+| AMD | [https://www.amd.com/en/technologies/ai](https://www.amd.com/en/technologies/ai) | AMD's AI research and model development platform. |
+| Artificial Analysis | [https://artificialanalysis.com/](https://artificialanalysis.com/) | Independent analysis of AI. Understand the AI landscape to choose the best model and provider for your use case. |
+| BAIDU | [https://huggingface.co/baidu](https://huggingface.co/baidu) | Baidu's AI research and model development platform. |
+| DeepReinforce | [https://huggingface.co/deepreinforce-ai](https://huggingface.co/deepreinforce-ai) | AI research and model development by DeepReinforce. - Orinth Models |
+| EmperorAI | [empero.org](https://empero.org/) | AI research and model development by EmperorAI. |
+| Kaggle | [https://www.kaggle.com/](https://www.kaggle.com/) | Data science competition & ML dataset platform. |
+| NVIDIA | [https://developer.nvidia.com/](https://developer.nvidia.com/) | NVIDIA's AI research and model development platform. |
+| Unsloth | [unsloth.ai](https://unsloth.ai/) | AI research and model development by Unsloth. |
