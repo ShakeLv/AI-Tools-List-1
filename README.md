@@ -49,6 +49,16 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Windsurf | [windsurf.ai](https://windsurf.ai) | AI‑powered code generation and refactoring. |
 | Wolfram Alpha | [wolframalpha.com](https://wolframalpha.com) | Computational knowledge engine with AI‑powered math and science tools. |
 | Zeno | [zeno.com](https://zeno.com) | AI assistant for debugging and improving code. |
+| CodeRabbit | [coderabbit.ai](https://coderabbit.ai) | AI-powered code review bot providing context-aware feedback on pull requests. |
+| Mabl | [mabl.com](https://mabl.com) | AI-native test automation platform for end-to-end testing and monitoring. |
+| Testim | [testim.io](https://testim.io) | AI-powered functional testing that self-heals when UI changes. |
+
+## 📚 AI Documentation & Knowledge Tools
+
+| Name | URL | Description |
+| ---------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Mintlify | [mintlify.com](https://mintlify.com) | AI-powered documentation platform for writing, hosting, and managing API docs and developer guides. |
+| DocuWriter | [docuwriter.ai](https://docuwriter.ai) | Automatically generates code documentation and comments using AI. |
 
 ## 📋 Productivity & Workspace Tools
 
@@ -99,6 +109,21 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | Synthesys | [synthesys.io](https://synthesys.io) | AI avatars and voiceovers for video creation. |
 | Tome | [tome.app](https://tome.app) | AI storytelling platform for presentations and pitches. |
 | Visme | [visme.co](https://visme.co) | AI‑powered presentation and infographic design tool. |
+
+## 🎥 AI Video & Avatar Tools
+
+| Name | URL | Description |
+| -------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| HeyGen | [heygen.com](https://heygen.com) | AI-powered talking avatar and video generation from text or scripts. |
+| Synthesia | [synthesia.io](https://synthesia.io) | Create professional AI videos with digital avatars – no cameras or actors needed. |
+| Pika | [pika.art](https://pika.art) | AI video generation from text prompts and images. |
+
+## 🎵 AI Music & Sound Generation
+
+| Name | URL | Description |
+| -------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Suno | [suno.com](https://suno.com) | AI music generation that creates original songs with vocals from text prompts. |
+| Udio | [udio.com](https://udio.com) | AI music generator with fine-grained control over genre, mood, and instrumentation. |
 
 ## ✍️ Writing & Content Creation Tools
 
@@ -152,8 +177,10 @@ List of AI tools for various tasks. This list is (obviously) not comprehensive.
 | LLAMA | [https://www.llama.com/](https://www.llama.com/) | Meta's AI Tooling |
 | LLAMACPP | [https://github.com/ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ |
 | LLAMASharp | [https://github.com/SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) | LLamaSharp is a cross-platform library to run 🦙LLaMA/LLaVA |
+| Groq | [groq.com](https://groq.com) | Ultra-fast inference for open-source LLMs (Mixtral, Llama, etc.) with a developer-friendly API. |
+| Together AI | [together.ai](https://together.ai) | Platform for training, fine-tuning, and running open-source models at scale. |
 
-## 🔬 AI Research &amp; Model Creators
+## 🔬 AI Research & Model Creators
 
 | Name | URL | Description |
 | ---------- | ---------------------------------------------- | ------------------------------------------------------- |
